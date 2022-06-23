@@ -1,0 +1,1 @@
+alert('Abe John, 5.7ft, Nigeria');
